@@ -9,6 +9,6 @@ Natural Language Processing remains one of the toughest tasks for computers, bot
 * To deal with small datasets, that is, with insufficient number of training samples.
 
 ## Authors
-* Gupta Jay
-* Kanodia Ritwik
-* Mundhra Divyesh
+* [Gupta Jay](https://github.com/guptajay)
+* [Kanodia Ritwik](https://github.com/ritwikkanodia)
+* [Mundhra Divyesh](https://github.com/divyeshmundhra)
